@@ -13,4 +13,5 @@
 ```
 
 ## Architecture
+### Note: All components of the Transformer network have been implemented, except for positional encoding.
 ![image](https://github.com/user-attachments/assets/98712fed-8ae3-43de-95e6-acf5a8a1f1f7)
