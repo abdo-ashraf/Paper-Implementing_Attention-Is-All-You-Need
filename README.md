@@ -11,3 +11,6 @@
   year={2017}
 }
 ```
+
+## Architecture
+![image](https://github.com/user-attachments/assets/98712fed-8ae3-43de-95e6-acf5a8a1f1f7)
